@@ -1,4 +1,4 @@
-# eth-rlp
+# vap-rlp
 
 [![Join the chat at https://gitter.im/ethereum/eth-rlp](https://badges.gitter.im/ethereum/eth-rlp.svg)](https://gitter.im/ethereum/eth-rlp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://circleci.com/gh/ethereum/eth-rlp.svg?style=shield)](https://circleci.com/gh/ethereum/eth-rlp)
@@ -7,7 +7,7 @@
 [![Docs build](https://readthedocs.org/projects/eth-rlp/badge/?version=latest)](http://eth-rlp.readthedocs.io/en/latest/?badge=latest)
    
 
-RLP definitions for common Ethereum objects in Python
+RLP definitions for common Vapory objects in Python
 
 Read more in the [documentation on ReadTheDocs](http://eth-rlp.readthedocs.io/). [View the change log](http://eth-rlp.readthedocs.io/en/latest/release_notes.html).
 
